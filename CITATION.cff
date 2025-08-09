@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "Ball & Beam: Dual-Controller (PID + Feedback Linearization) – ESP32 + Arduino"
+authors:
+  - family-names: Acevedo Mastrogiacomo
+    given-names: Jesus Rafael
+    orcid: "https://orcid.org/0009-0008-3393-4244"
+repository-code: "https://github.com/jesus-mastrogiacomo/ball-and-beam-nonlinear"
+license: MIT
+version: "1.0.0"
+date-released: "2025-08-08"
+keywords:
+  - ball and beam
+  - feedback linearization
+  - PID
+  - ESP32
+  - Arduino
+  - Simulink
+  - VL53L0X
+  - HC-SR04
+preferred-citation:
+  type: software
+  title: "Ball & Beam: Dual-Controller (PID + Feedback Linearization) – ESP32 + Arduino"
+  authors:
+    - family-names: Acevedo Mastrogiacomo
+      given-names: Jesus Rafael
+      orcid: "https://orcid.org/0009-0008-3393-4244"
+  year: 2025
+  url: "https://github.com/jesus-mastrogiacomo/ball-and-beam-nonlinear"
+
